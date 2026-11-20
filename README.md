@@ -3,6 +3,17 @@
 * aviutl2用の出力プラグインです。
 * 音声のみを32bit floatまたは16bit shortのWAV形式で出力します。 
 
+## 📺ニコニコ動画
+
+<a href="https://www.nicovideo.jp/shorts/ss46575017">
+<img src="images/r3_thumbnail.jpg" alt="ニコニコ動画" width="45%">
+</a>
+
+* 親登録用のニコニコ動画です。
+* 親登録は任意ですが、して頂けると作者の収入になるので、非常に助かります。
+* ご負担でなければ、よろしくお願いします。
+* [ニコニコの収入](https://x.com/search?q=%23%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E3%81%AE%E5%8F%8E%E5%85%A5&f=live)はXでつぶやいていることがあります。
+
 ## インストール
 
 * `C:\ProgramData\aviutl2\Plugin`フォルダに以下のファイルを入れてください。
